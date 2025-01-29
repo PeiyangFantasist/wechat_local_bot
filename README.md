@@ -16,4 +16,4 @@ pip install -r requirements.txt
 运行 `realbot.py` 会保存二维码到 `QR.png`，用微信扫描登录即可
 ### 6.其他说明
 1. `requirements.txt` 那里我随便写了几个，用的时候还是根据自己的环境来安装相应的库吧
-2. 这个代码运行出来的AI有点笨笨的，毕竟这个代码是根据deepseek的API调用代码改的，就这样吧反正我也不会写（（
+2. 这个代码运行出来的 AI 有点笨笨的，毕竟这个代码是根据 deepseek 的 API 调用代码改的，就这样吧反正我也不会写（（

@@ -1,0 +1,6 @@
+itchat
+flask
+flask_cors
+ollama
+sqlalchemy
+pandas
